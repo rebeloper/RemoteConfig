@@ -7,3 +7,5 @@ Have you ever wanted to use Firebase Remote Config conditions to configure your 
 Firebase remote config pricing is for free so if your firebase remote config is not working take a look at this firebase remote config tutorial! 
 [See the video here >>](https://www.youtube.com/watch?v=2twyU9biLSo&list=PL_csAAO9PQ8aZ2kmFmyfTNfiRBZZTMpt1&index=7)
 -- Alex
+
+https://www.youtube.com/watch?v=2twyU9biLSo&list=PL_csAAO9PQ8aZ2kmFmyfTNfiRBZZTMpt1&index=7
